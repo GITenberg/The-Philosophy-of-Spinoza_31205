@@ -1,0 +1,36 @@
+_repo: The-Philosophy-of-Spinoza_31205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spinoza, Benedictus de
+    aliases:
+    - Spinoza, Baruch
+    - Espinosa, Baruch de
+    - De Spinoza, Benedictus
+    birthdate: 1632
+    deathdate: 1677
+    gutenberg_agent_id: '473'
+    url: http://www.gutenberg.org/2009/agents/473
+    wikipedia: http://en.wikipedia.org/wiki/Baruch_Spinoza
+  editor:
+    agent_name: Ratner, Joseph
+    birthdate: 1901
+    gutenberg_agent_id: '35060'
+    url: http://www.gutenberg.org/2009/agents/35060
+description: ''
+gutenberg_issued: '2010-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+title: The Philosophy of Spinoza
+url: http://www.gutenberg.org/ebooks/31205
